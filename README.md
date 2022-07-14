@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zorrious
+- 👀 I’m interested in Java, Python, JavaScript
+- 🌱 I’m currently learning JavaScript and Python
+- 📫 How to reach me : सिरी#0001 on Discord
